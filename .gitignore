@@ -1,0 +1,10 @@
+*__pycache__
+mhmr/demo_out
+mhmr/models
+mhmr/.multihmr
+._.DS_Store
+.DS_Store
+
+*.pt
+*.jpg
+._*.jpg

@@ -1,0 +1,58 @@
+SQLAlchemy
+nest-asyncio
+requests
+openai
+aiofiles
+uvicorn
+numpy
+pydantic
+starlette
+slowapi
+typing-extensions
+fastapi
+passlib
+python-jose
+mysql-connector-python
+pydantic[email]
+bcrypt
+xmltodict
+APScheduler
+firebase-admin
+pytz
+schedule
+dotenv
+pandas
+pymysql
+plotly
+
+trimesh==3.22.3
+pyrender==0.1.45
+einops==0.6.1
+roma
+pillow==10.0.1
+smplx
+pyvista==0.42.3
+vtk<9.3
+numpy==1.22.4
+pyglet==1.5.24
+tqdm==4.65.0
+xformers==0.0.20
+
+# for huggingface
+gradio==4.18.0
+spaces==0.19.4
+
+# for training/validation
+tensorboard
+
+# for ehf
+plyfile==1.0.3
+
+# for smpl
+chumpy==0.70
+
+# PyTorch with CUDA 11.8
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+torchaudio==2.0.2+cu118
